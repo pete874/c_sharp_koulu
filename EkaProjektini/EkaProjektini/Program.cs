@@ -6,7 +6,7 @@ namespace EkaProjektini
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello maailma");
+            Console.WriteLine("Hyvää Päivää");
         }
     }
 
