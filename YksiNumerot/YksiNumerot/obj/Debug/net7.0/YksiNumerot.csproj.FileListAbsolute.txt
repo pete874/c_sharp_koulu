@@ -1,0 +1,15 @@
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.exe
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.dll
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\bin\Debug\net7.0\YksiNumerot.pdb
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.dll
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\refint\YksiNumerot.dll
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.pdb
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\YksiNumerot.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\YksiNumerot\YksiNumerot\obj\Debug\net7.0\ref\YksiNumerot.dll
