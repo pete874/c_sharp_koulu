@@ -1,0 +1,15 @@
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\bin\Debug\net7.0\ReadlineHarjoitus.exe
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\bin\Debug\net7.0\ReadlineHarjoitus.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\bin\Debug\net7.0\ReadlineHarjoitus.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\bin\Debug\net7.0\ReadlineHarjoitus.dll
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\bin\Debug\net7.0\ReadlineHarjoitus.pdb
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.dll
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\refint\ReadlineHarjoitus.dll
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.pdb
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ReadlineHarjoitus.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\ReadlineHarjoitus\ReadlineHarjoitus\obj\Debug\net7.0\ref\ReadlineHarjoitus.dll
