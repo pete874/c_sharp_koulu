@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Moi! Nimeni on Petri");
+﻿using System;
+
+namespace EkaProjektini
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello maailma");
+        }
+    }
+
+}
