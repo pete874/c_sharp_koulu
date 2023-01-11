@@ -1,2 +1,2 @@
-# c_sharp_koulu
+# C# Koulu
 C# koulutehtävät
