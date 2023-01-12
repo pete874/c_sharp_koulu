@@ -1,3 +1,2 @@
 ﻿string nimi = Console.ReadLine();
-Console.WriteLine("Tervetuloa ");
-Console.Write(nimi);
+Console.WriteLine("Tervetuloa " + nimi);
