@@ -1,0 +1,15 @@
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\bin\Debug\net6.0\neliojuuri.exe
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\bin\Debug\net6.0\neliojuuri.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\bin\Debug\net6.0\neliojuuri.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\bin\Debug\net6.0\neliojuuri.dll
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\bin\Debug\net6.0\neliojuuri.pdb
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.dll
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\refint\neliojuuri.dll
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.pdb
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\neliojuuri.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\neliojuuri\neliojuuri\obj\Debug\net6.0\ref\neliojuuri.dll

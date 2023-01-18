@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Opiskelija\\.nuget\\packages\\": {},
+    "C:\\Users\\Legion\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\c_sharp_koulu\\c_sharp_koulu\\SuomiAika\\SuomiAika\\SuomiAika.csproj",
+      "projectUniqueName": "C:\\c_sharp_koulu\\c_sharp_koulu\\SuomiAika\\SuomiAika\\SuomiAika.csproj",
       "projectName": "SuomiAika",
-      "projectPath": "C:\\repos\\c_sharp_koulu\\c_sharp_koulu\\SuomiAika\\SuomiAika\\SuomiAika.csproj",
-      "packagesPath": "C:\\Users\\Opiskelija\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\c_sharp_koulu\\c_sharp_koulu\\SuomiAika\\SuomiAika\\obj\\",
+      "projectPath": "C:\\c_sharp_koulu\\c_sharp_koulu\\SuomiAika\\SuomiAika\\SuomiAika.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "C:\\c_sharp_koulu\\c_sharp_koulu\\SuomiAika\\SuomiAika\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Opiskelija\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
