@@ -2,9 +2,12 @@
 {
     private static void Main(string[] args)
     {
+        //kysytään käyttäjältä, minkä seuraavista kolmesta vaihtoehdosta hän haluaa syöttää
         Console.WriteLine("Haluatko antaa kokonaisluvun, double-luvun vai merkkijonon: ");
         string luku = Console.ReadLine();
 
+        
+        // tehdään switch case syötettyä vaihtoehtoa varten
         switch(luku)
         {
             case "kokonaisluvun":
@@ -16,8 +19,19 @@
 
             case "double-luvun":
                 Console.WriteLine("Anna double-luku: ");
-                double doubleLuku = float.Parse(Console.ReadLine());
+                double doubleLuku = Double.Parse(Console.ReadLine());
+                doubleLuku++;
                 Console.WriteLine(doubleLuku);
+                break;
+
+            case "merkkijonon":
+                Console.WriteLine("Anna merkkijono: ");
+                string merkkijono = Console.ReadLine();
+                Console.WriteLine(merkkijono + "*");
+                break;
+
+            default:
+                Console.WriteLine("Väärä syöte");
                 break;
         }
     }
