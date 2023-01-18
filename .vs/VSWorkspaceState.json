@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\diaharjoitukset",
+    "\\diaharjoitukset\\tehtava5",
+    "\\diaharjoitukset\\tehtava5\\tehtava5",
     "\\SuomiAika\\SuomiAika"
   ],
-  "SelectedNode": "\\diaharjoitukset",
+  "SelectedNode": "\\diaharjoitukset\\tehtava5\\tehtava5\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
