@@ -1,0 +1,15 @@
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\bin\Debug\net6.0\tulolasku.exe
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\bin\Debug\net6.0\tulolasku.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\bin\Debug\net6.0\tulolasku.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\bin\Debug\net6.0\tulolasku.dll
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\bin\Debug\net6.0\tulolasku.pdb
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.dll
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\refint\tulolasku.dll
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.pdb
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\tulolasku.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\perusharjoituksia\tulolasku\tulolasku\obj\Debug\net6.0\ref\tulolasku.dll

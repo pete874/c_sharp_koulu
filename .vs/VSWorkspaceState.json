@@ -1,14 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\EkaProjektini",
-    "\\EkaProjektini\\EkaProjektini",
-    "\\OmaNimi",
-    "\\ReadlineHarjoitus",
-    "\\SuomiAika",
-    "\\SuomiAika\\SuomiAika",
-    "\\YksiNumerot"
+    "\\SuomiAika\\SuomiAika"
   ],
-  "SelectedNode": "\\EkaProjektini\\EkaProjektini\\Program.cs",
+  "SelectedNode": "\\perusharjoituksia",
   "PreviewInSolutionExplorer": false
 }
