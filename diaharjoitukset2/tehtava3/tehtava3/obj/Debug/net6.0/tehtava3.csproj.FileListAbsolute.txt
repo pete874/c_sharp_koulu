@@ -1,0 +1,15 @@
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\bin\Debug\net6.0\tehtava3.exe
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\bin\Debug\net6.0\tehtava3.deps.json
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\bin\Debug\net6.0\tehtava3.runtimeconfig.json
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\bin\Debug\net6.0\tehtava3.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\bin\Debug\net6.0\tehtava3.pdb
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.csproj.AssemblyReference.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.GeneratedMSBuildEditorConfig.editorconfig
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.AssemblyInfoInputs.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.AssemblyInfo.cs
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.csproj.CoreCompileInputs.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\refint\tehtava3.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.pdb
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\tehtava3.genruntimeconfig.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava3\tehtava3\obj\Debug\net6.0\ref\tehtava3.dll
