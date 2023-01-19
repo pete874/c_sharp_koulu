@@ -7,7 +7,7 @@
         string luku = Console.ReadLine();
 
         
-        // tehdään switch case syötettyä vaihtoehtoa varten
+        // tehdään switch case syötettyä vaihtoehtoa varten.
         switch(luku)
         {
             case "kokonaisluvun":
