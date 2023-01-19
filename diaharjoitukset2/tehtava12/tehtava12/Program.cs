@@ -15,26 +15,19 @@ catch
 }
 if (luku2 > 10)
 {
-    for (int i = 0; i < 13; i++)
-    {
-        Console.Write(luku + " ");
-    }
-    Console.Write("\n");
-    for (int i = 0; i < 13; i++)
-    {
-        Console.Write(luku);
-    }
-    Console.Write("\n");
     for (int i = 0; i < 11; i++)
     {
-        Console.Write(luku + " ");
+        for (int j = 0; j < 13; j++)
+        {
+            Console.Write(luku2 + " ");
+        }
+        Console.Write("\n");
+        for (int k = 0; k < 13; k++)
+        {
+            Console.Write(luku2);
+        }
+        Console.Write("\n");
     }
-    Console.Write("\n");
-    for (int i = 0; i < 13; i++)
-    {
-        Console.Write(luku);
-    }
-    Console.Write("\n");
     goto alku;
 }
 else
