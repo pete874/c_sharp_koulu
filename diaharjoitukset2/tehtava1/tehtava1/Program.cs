@@ -2,8 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        int luku1 = 1;
-        int luku2 = 2;
+        Console.WriteLine("Anna kaksi lukua niin plussaan ne toisiinsa: ");
+        int luku1 = int.Parse(Console.ReadLine());
+        int luku2 = int.Parse(Console.ReadLine());
         int summa = luku1 + luku2;
         Console.WriteLine(summa);
     }
