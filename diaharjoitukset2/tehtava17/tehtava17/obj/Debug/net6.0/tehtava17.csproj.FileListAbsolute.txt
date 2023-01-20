@@ -1,0 +1,15 @@
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\bin\Debug\net6.0\tehtava17.exe
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\bin\Debug\net6.0\tehtava17.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\bin\Debug\net6.0\tehtava17.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\bin\Debug\net6.0\tehtava17.dll
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\bin\Debug\net6.0\tehtava17.pdb
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.dll
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\refint\tehtava17.dll
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.pdb
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\tehtava17.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava17\tehtava17\obj\Debug\net6.0\ref\tehtava17.dll
