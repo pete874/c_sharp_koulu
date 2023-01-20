@@ -58,44 +58,44 @@ static string ykkoset(int number)
             return "virhe";
             break;
     }
+}
 
-    static string kahdetkymmenet(int number)
+static string kahdetkymmenet(int number)
+{
+    switch (number)
     {
-        switch (number)
-        {
-            case 10:
-                return "Kymmenen";
-                break;
-            case 11:
-                return "Yksitoista";
-                break;
-            case 12:
-                return "Kaksitoista";
-                break;
-            case 13:
-                return "Kolmetoista";
-                break;
-            case 14:
-                return "Neljätoista";
-                break;
-            case 15:
-                return "Viisitoista";
-                break;
-            case 16:
-                return "Kuusitoista";
-                break;
-            case 17:
-                return "Seitsemäntoista";
-                break;
-            case 18:
-                return "Kahdeksantoista";
-                break;
-            case 19:
-                return "Yhdeksäntoista";
-                break;
-            default:
-                return "väärin";
-                break;
-        }
+        case 10:
+            return "Kymmenen";
+            break;
+        case 11:
+            return "Yksitoista";
+            break;
+        case 12:
+            return "Kaksitoista";
+            break;
+        case 13:
+            return "Kolmetoista";
+            break;
+        case 14:
+            return "Neljätoista";
+            break;
+        case 15:
+            return "Viisitoista";
+            break;
+        case 16:
+            return "Kuusitoista";
+            break;
+        case 17:
+            return "Seitsemäntoista";
+            break;
+        case 18:
+            return "Kahdeksantoista";
+            break;
+        case 19:
+            return "Yhdeksäntoista";
+            break;
+        default:
+            return "väärin";
+            break;
     }
 }
