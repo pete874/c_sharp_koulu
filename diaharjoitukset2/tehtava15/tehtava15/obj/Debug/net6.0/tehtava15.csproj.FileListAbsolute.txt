@@ -1,0 +1,15 @@
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\bin\Debug\net6.0\tehtava15.exe
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\bin\Debug\net6.0\tehtava15.deps.json
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\bin\Debug\net6.0\tehtava15.runtimeconfig.json
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\bin\Debug\net6.0\tehtava15.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\bin\Debug\net6.0\tehtava15.pdb
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.csproj.AssemblyReference.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.GeneratedMSBuildEditorConfig.editorconfig
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.AssemblyInfoInputs.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.AssemblyInfo.cs
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.csproj.CoreCompileInputs.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\refint\tehtava15.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.pdb
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\tehtava15.genruntimeconfig.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\diaharjoitukset2\tehtava15\tehtava15\obj\Debug\net6.0\ref\tehtava15.dll
