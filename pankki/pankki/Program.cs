@@ -47,7 +47,7 @@ namespace Pankki
             m_saldo += summa;
         }
 
-        public static void Main ()
+        private static void Main ()
         {
             Pankkitili pt = new Pankkitili("Petri Nurmi", 1200);
             pt.Otto(300);
