@@ -35,7 +35,7 @@ namespace Pankki
             {
                 throw new ArgumentOutOfRangeException("summa");
             }
-            m_saldo += summa;
+            m_saldo -= summa;
         }
 
         public void Pano(double summa)
