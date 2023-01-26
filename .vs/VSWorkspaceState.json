@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\diaharjoitukset",
+    "\\diaharjoitukset\\tehtava7\\tehtava7",
     "\\Pankkitesti",
-    "\\Pankkitesti\\TestResults",
-    "\\pankki\\pankki"
+    "\\Pankkitesti\\Pankkitesti"
   ],
-  "SelectedNode": "\\Pankkitesti\\Pankkitesti.sln",
+  "SelectedNode": "\\Pankkitesti\\Pankkitesti\\PankkiTesti.cs",
   "PreviewInSolutionExplorer": false
 }
