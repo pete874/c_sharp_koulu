@@ -10,6 +10,7 @@
         Console.WriteLine("1. Tehtävä");
         Console.WriteLine("2. Tehtävä");
         Console.WriteLine("3. Tehtävä");
+        Console.WriteLine("4. Tehtävä");
 
         string valinta;
         int numero;
@@ -29,6 +30,10 @@
                 break;
             case 3:
                 tehtava3();
+                goto alku;
+                break;
+            case 4:
+                tehtava4();
                 goto alku;
                 break;
         }
@@ -90,5 +95,20 @@
         Console.WriteLine("Paina enter jatkaaksesi");
         Console.ReadLine();
 
+    }
+
+    static void tehtava4()
+    {
+        Console.Clear();
+        Console.WriteLine("S04. Tee ohjelma, kääntää käyttäjän antaman sanan toisinpäin (Hevonen --> nenoveH)");
+        string sana = Console.ReadLine();
+        Console.WriteLine("Vastaus on: ");
+        
+        for (int i = sana.Length ; i > 0; i--)
+        {
+            Console.Write(sana[i-1]);
+        }
+        Console.WriteLine("\nPaina enter jatkaaksesi");
+        Console.ReadLine() ;
     }
 }
