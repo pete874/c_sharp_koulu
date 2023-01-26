@@ -7,7 +7,7 @@ namespace Pankki
         private readonly string m_asiakkaanNimi;
         private double m_saldo;
 
-        private Pankkitili() { }
+        public Pankkitili() { }
 
         public Pankkitili(string asiakkaanNimi, double saldo)
         {

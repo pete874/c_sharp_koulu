@@ -11,7 +11,7 @@ namespace Pankkitesti
             double alkusaldo = 11.99;
             double ottoSumma = 4.55;
             double oletettu = 7.44;
-            Pankkitili tili = new Pankkitili("Jaakko Tarvainen", alkusaldo);
+            Pankki.Pankkitili tili = new Pankki.Pankkitili("Jaakko Tarvainen", alkusaldo);
 
             //toiminta
             tili.Otto(ottoSumma);
