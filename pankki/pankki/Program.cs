@@ -50,8 +50,8 @@ namespace Pankki
         public static void Main ()
         {
             Pankkitili pt = new Pankkitili("Petri Nurmi", 1200);
-            pt.Otto(300);
-            pt.Pano(400);
+            pt.Pano(500);
+            pt.Otto(400);
             Console.WriteLine("Saldosi on {0}", pt.Saldo);
         }
 
