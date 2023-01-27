@@ -1,0 +1,17 @@
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\bin\Debug\net6.0-windows\harjoitus3.exe
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\bin\Debug\net6.0-windows\harjoitus3.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\bin\Debug\net6.0-windows\harjoitus3.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\bin\Debug\net6.0-windows\harjoitus3.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\bin\Debug\net6.0-windows\harjoitus3.pdb
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.Form1.resources
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.csproj.GenerateResource.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\refint\harjoitus3.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.pdb
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\harjoitus3.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafinen_tehtavat\harjoitus1\harjoitus3\obj\Debug\net6.0-windows\ref\harjoitus3.dll
