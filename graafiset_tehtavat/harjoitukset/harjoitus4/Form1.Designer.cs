@@ -129,7 +129,7 @@
             this.Controls.Add(this.laskeBT);
             this.Controls.Add(this.synttariAika);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Synttarilasku";
             this.ResumeLayout(false);
             this.PerformLayout();
 
