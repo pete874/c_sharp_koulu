@@ -14,7 +14,7 @@ namespace harjoitus4
             double erotus = Math.Round((aikanyt - synttarit).TotalDays);
 
             vuodetLB.Visible = true;
-            vuodetLB.Text = Math.Ceiling(erotus / 365.25) + " vuotta";
+            vuodetLB.Text = Math.Floor(erotus / 365.25) + " vuotta";
 
             kuukaudetLB.Visible = true;
             kuukaudetLB.Text = Math.Ceiling((erotus * 12) / 365.25) + " kuukautta";
