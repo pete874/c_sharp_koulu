@@ -1,0 +1,17 @@
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.csproj.AssemblyReference.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.LukujenJarjestys.resources
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.csproj.GenerateResource.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.GeneratedMSBuildEditorConfig.editorconfig
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.AssemblyInfoInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.AssemblyInfo.cs
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.csproj.CoreCompileInputs.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\bin\Debug\net6.0-windows\harjoitus5.exe
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\bin\Debug\net6.0-windows\harjoitus5.deps.json
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\bin\Debug\net6.0-windows\harjoitus5.runtimeconfig.json
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\bin\Debug\net6.0-windows\harjoitus5.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\bin\Debug\net6.0-windows\harjoitus5.pdb
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\refint\harjoitus5.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.pdb
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\harjoitus5.genruntimeconfig.cache
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus5\obj\Debug\net6.0-windows\ref\harjoitus5.dll
