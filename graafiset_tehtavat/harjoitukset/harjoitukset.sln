@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus3", "harjoitus3\ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus4", "harjoitus4\harjoitus4.csproj", "{7FA2498F-3470-4CB3-B281-B3664E6E2F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus5", "harjoitus5\harjoitus5.csproj", "{D6DF2F00-F34D-414F-A180-2554606117B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus5", "harjoitus5\harjoitus5.csproj", "{D6DF2F00-F34D-414F-A180-2554606117B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus6", "harjoitus6\harjoitus6.csproj", "{8C643395-2667-49E6-A65D-D4AB78BAFDCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus6", "harjoitus6\harjoitus6.csproj", "{8C643395-2667-49E6-A65D-D4AB78BAFDCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus7", "harjoitus7\harjoitus7.csproj", "{86BEBDFF-EDEC-4C45-A90C-A4C87E5886D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus7", "harjoitus7\harjoitus7.csproj", "{86BEBDFF-EDEC-4C45-A90C-A4C87E5886D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus8", "harjoitus8\harjoitus8.csproj", "{378E093D-A9D6-4E42-B9B1-A1B36CE7612A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus8", "harjoitus8\harjoitus8.csproj", "{378E093D-A9D6-4E42-B9B1-A1B36CE7612A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus9", "harjoitus9\harjoitus9.csproj", "{805C7BE1-DDF9-48E6-BD74-321D937C2C5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{378E093D-A9D6-4E42-B9B1-A1B36CE7612A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{378E093D-A9D6-4E42-B9B1-A1B36CE7612A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{378E093D-A9D6-4E42-B9B1-A1B36CE7612A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{805C7BE1-DDF9-48E6-BD74-321D937C2C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805C7BE1-DDF9-48E6-BD74-321D937C2C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805C7BE1-DDF9-48E6-BD74-321D937C2C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805C7BE1-DDF9-48E6-BD74-321D937C2C5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
