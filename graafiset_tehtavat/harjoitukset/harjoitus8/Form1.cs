@@ -14,20 +14,20 @@ namespace harjoitus8
 
             if(NumeroTB.Text.Length > 3 ) //tuhannet
             {
-                luku1 = Convert.ToInt32(NumeroTB.Text.Substring(0, 1));
-                luku2 = Convert.ToInt32(NumeroTB.Text.Substring(1, 1));
-                luku3 = Convert.ToInt32(NumeroTB.Text.Substring(2, 1));
-                luku4 = Convert.ToInt32(NumeroTB.Text.Substring(3, 1));
+                luku1 = Convert.ToInt32(NumeroTB.Text.Substring(0, 1)); //tonnit
+                luku2 = Convert.ToInt32(NumeroTB.Text.Substring(1, 1)); //sataset
+                luku3 = Convert.ToInt32(NumeroTB.Text.Substring(2, 1)); //kympit
+                luku4 = Convert.ToInt32(NumeroTB.Text.Substring(3, 1)); //ykköset
 
-                if (luku1 % 3 == 0)
+                if (luku1 % 3 == 0) //3000, ei toimi oikein yli 3999 luvulla
                 {
                     vastaus += "MMM";
                 }
-                else if(luku1 % 2 == 0)
+                else if(luku1 % 2 == 0) //2000
                 {
                     vastaus += "MM";
                 }
-                else if (luku1 % 1 == 0)
+                else if (luku1 % 1 == 0) //1000
                 {
                     vastaus += "M";
                 }
@@ -101,6 +101,94 @@ namespace harjoitus8
             else if (luku2 % 1 == 0 && luku2 != 0)
             {
                 return "C";
+            }
+            else
+            {
+                return "";
+            }
+        }
+
+        private string kympit(int luku3, string vastaus)
+        {
+            if (luku3 % 9 == 0 && luku3 != 0)
+            {
+                return "XC";
+            }
+            else if (luku3 % 8 == 0 && luku3 != 0)
+            {
+                return "LCCC";
+            }
+            else if (luku3 % 7 == 0 && luku3 != 0)
+            {
+                return "LCC";
+            }
+            else if (luku3 % 6 == 0 && luku3 != 0)
+            {
+                return "LC";
+            }
+            else if (luku3 % 5 == 0 && luku3 != 0)
+            {
+                return "L";
+            }
+            else if (luku3 % 4 == 0 && luku3 != 0)
+            {
+                return "LXXX";
+            }
+            else if (luku3 % 3 == 0 && luku3 != 0)
+            {
+                return "XXX";
+            }
+            else if (luku3 % 2 == 0 && luku3 != 0)
+            {
+                return "XX";
+            }
+            else if (luku3 % 1 == 0 && luku3 != 0)
+            {
+                return "X";
+            }
+            else
+            {
+                return "";
+            }
+        }
+
+        private string ykkoset(int luku4, string vastaus)
+        {
+            if (luku4 % 9 == 0 && luku4 != 0)
+            {
+                return "IX";
+            }
+            else if (luku4 % 8 == 0 && luku4 != 0)
+            {
+                return "VIII";
+            }
+            else if (luku4 % 7 == 0 && luku4 != 0)
+            {
+                return "VII";
+            }
+            else if (luku4 % 6 == 0 && luku4 != 0)
+            {
+                return "VI";
+            }
+            else if (luku4 % 5 == 0 && luku4 != 0)
+            {
+                return "V";
+            }
+            else if (luku4 % 4 == 0 && luku4 != 0)
+            {
+                return "IV";
+            }
+            else if (luku4 % 3 == 0 && luku4 != 0)
+            {
+                return "III";
+            }
+            else if (luku4 % 2 == 0 && luku4 != 0)
+            {
+                return "II";
+            }
+            else if (luku4 % 1 == 0 && luku4 != 0)
+            {
+                return "I";
             }
             else
             {

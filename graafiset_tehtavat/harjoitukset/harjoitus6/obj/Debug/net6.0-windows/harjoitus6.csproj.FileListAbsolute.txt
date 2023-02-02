@@ -15,3 +15,4 @@ C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus6\obj\De
 C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus6\obj\Debug\net6.0-windows\harjoitus6.pdb
 C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus6\obj\Debug\net6.0-windows\harjoitus6.genruntimeconfig.cache
 C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus6\obj\Debug\net6.0-windows\ref\harjoitus6.dll
+C:\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus6\obj\Debug\net6.0-windows\harjoitus6.Properties.Resources.resources
