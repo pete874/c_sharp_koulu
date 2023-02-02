@@ -21,6 +21,7 @@ namespace harjoitus9
             else
             {
                 double asteet = Convert.ToDouble(AsteenSyottoTB.Text);
+
                 if (CelsiusRB.Checked)
                 {
                     vastaus = asteet * 1.8 + 32;
