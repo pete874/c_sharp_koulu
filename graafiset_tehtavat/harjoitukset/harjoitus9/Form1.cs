@@ -10,26 +10,30 @@ namespace harjoitus9
         private void MuunnaBT_Click(object sender, EventArgs e)
         {
             double vastaus;
-            double asteet = Convert.ToDouble(AsteenSyottoTB.Text);
 
-
-            if (CelsiusRB.Checked)
+            //testataan ensiksi, onko tekstikentässä mitään tai onko radiobuttonit tyhjiä tai onko
+            //tekstikenttään syötetty muutakuin numeroita(double tyyppisiä numeroita tässä tapauksessa)
+            if ((AsteenSyottoTB.Text.Length <= 0) || (!CelsiusRB.Checked && !FahrenheitRB.Checked) || (double.TryParse(AsteenSyottoTB.Text, out double n) == false))
             {
-                vastaus = asteet * 1.8 + 32;
-                VastausLB.Text = asteet + " celsiusta on " + vastaus + " fahrenheit-astetta";
-                VastausLB.Visible = true;
-            }
-
-            else if (FahrenheitRB.Checked)
-            {
-                vastaus = (asteet - 32) / 1.8;
-                VastausLB.Text = asteet + " fahrenheittia on " + vastaus + " celsius-astetta";
+                VastausLB.Text = "Sinulta puuttuu luku tai yksikkö tai olet syöttänyt luvun sijasta kirjaimia";
                 VastausLB.Visible = true;
             }
             else
             {
-                VastausLB.Text = "Syötä luku";
-                VastausLB.Visible = true;
+                double asteet = Convert.ToDouble(AsteenSyottoTB.Text);
+                if (CelsiusRB.Checked)
+                {
+                    vastaus = asteet * 1.8 + 32;
+                    VastausLB.Text = asteet + " celsiusta on " + vastaus + " fahrenheit-astetta";
+                    VastausLB.Visible = true;
+                }
+
+                else if (FahrenheitRB.Checked)
+                {
+                    vastaus = (asteet - 32) / 1.8;
+                    VastausLB.Text = asteet + " fahrenheittia on " + vastaus + " celsius-astetta";
+                    VastausLB.Visible = true;
+                }
             }
         }
     }
