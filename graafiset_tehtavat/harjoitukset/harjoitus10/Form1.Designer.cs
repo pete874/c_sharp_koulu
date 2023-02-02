@@ -41,29 +41,29 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(22, 35);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(102, 21);
+            this.label1.Size = new System.Drawing.Size(133, 21);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Anna paino:";
+            this.label1.Text = "Anna paino(kg):";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(22, 76);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(106, 21);
+            this.label2.Size = new System.Drawing.Size(133, 21);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Anna pituus:";
+            this.label2.Text = "Anna pituus(m):";
             // 
             // PainoTB
             // 
-            this.PainoTB.Location = new System.Drawing.Point(144, 32);
+            this.PainoTB.Location = new System.Drawing.Point(161, 32);
             this.PainoTB.Name = "PainoTB";
             this.PainoTB.Size = new System.Drawing.Size(100, 29);
             this.PainoTB.TabIndex = 2;
             // 
             // PituusTB
             // 
-            this.PituusTB.Location = new System.Drawing.Point(144, 73);
+            this.PituusTB.Location = new System.Drawing.Point(161, 73);
             this.PituusTB.Name = "PituusTB";
             this.PituusTB.Size = new System.Drawing.Size(100, 29);
             this.PituusTB.TabIndex = 3;
@@ -72,10 +72,11 @@
             // 
             this.LaskeBT.Location = new System.Drawing.Point(22, 143);
             this.LaskeBT.Name = "LaskeBT";
-            this.LaskeBT.Size = new System.Drawing.Size(222, 34);
+            this.LaskeBT.Size = new System.Drawing.Size(239, 34);
             this.LaskeBT.TabIndex = 4;
             this.LaskeBT.Text = "Laske painoindeksi";
             this.LaskeBT.UseVisualStyleBackColor = true;
+            this.LaskeBT.Click += new System.EventHandler(this.LaskeBT_Click);
             // 
             // VastausLB
             // 
@@ -100,7 +101,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "BMI-Laskuri";
             this.ResumeLayout(false);

@@ -6,5 +6,14 @@ namespace harjoitus10
         {
             InitializeComponent();
         }
+
+        private void LaskeBT_Click(object sender, EventArgs e)
+        {
+            double paino = Convert.ToDouble(PainoTB.Text);
+            double pituus = Convert.ToDouble(PituusTB.Text);
+            double bmi = Math.Round(paino / (pituus * pituus), 2);
+            VastausLB.Text = "Painoindeksisi on " + bmi;
+            VastausLB.Visible = true;
+        }
     }
 }
