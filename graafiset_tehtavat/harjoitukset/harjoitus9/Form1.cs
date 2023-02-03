@@ -18,10 +18,14 @@ namespace harjoitus9
                 VastausLB.Text = "Sinulta puuttuu luku tai yksikkö tai olet syöttänyt luvun sijasta kirjaimia";
                 VastausLB.Visible = true;
             }
+
+            //jos menee läpi, niin jatketaan itse muunnoksiin
             else
             {
+                //Stringi convertoidaan doubleksi, jotta saamme suoritettua laskutoimitukset.
                 double asteet = Convert.ToDouble(AsteenSyottoTB.Text);
 
+                // jos celsius radiobutton checkattu, tehdään sille laskutoimitus
                 if (CelsiusRB.Checked)
                 {
                     vastaus = asteet * 1.8 + 32;
@@ -29,6 +33,7 @@ namespace harjoitus9
                     VastausLB.Visible = true;
                 }
 
+                // Jos fahrenheit checkattu, tehdään sille laskutoimitus
                 else if (FahrenheitRB.Checked)
                 {
                     vastaus = (asteet - 32) / 1.8;

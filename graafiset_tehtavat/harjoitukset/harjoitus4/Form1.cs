@@ -9,10 +9,16 @@ namespace harjoitus4
 
         private void laskeBT_Click(object sender, EventArgs e)
         {
+            //haetaan datetimepicker-laatikosta value muuuttujaan
             DateTime synttarit = synttariAika.Value;
+
+            //haetaan tämän hetkinen aika muuttujaan
             DateTime aikanyt = DateTime.Now;
+
+            //tallennetaan muuttujien erotus omaan muuttujaan
             double erotus = Math.Round((aikanyt - synttarit).TotalDays);
 
+            //Ja alle laskut ja tulostuksen labeleihin
             vuodetLB.Visible = true;
             vuodetLB.Text = Math.Floor(erotus / 365.25) + " vuotta";
 
