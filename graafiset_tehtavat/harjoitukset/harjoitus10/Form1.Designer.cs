@@ -34,6 +34,7 @@
             this.PituusTB = new System.Windows.Forms.TextBox();
             this.LaskeBT = new System.Windows.Forms.Button();
             this.VastausLB = new System.Windows.Forms.Label();
+            this.Vastaus2LB = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -88,12 +89,23 @@
             this.VastausLB.Text = "Vastaus";
             this.VastausLB.Visible = false;
             // 
+            // Vastaus2LB
+            // 
+            this.Vastaus2LB.AutoSize = true;
+            this.Vastaus2LB.Location = new System.Drawing.Point(22, 255);
+            this.Vastaus2LB.Name = "Vastaus2LB";
+            this.Vastaus2LB.Size = new System.Drawing.Size(76, 21);
+            this.Vastaus2LB.TabIndex = 6;
+            this.Vastaus2LB.Text = "vastaus2";
+            this.Vastaus2LB.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
             this.ClientSize = new System.Drawing.Size(290, 311);
+            this.Controls.Add(this.Vastaus2LB);
             this.Controls.Add(this.VastausLB);
             this.Controls.Add(this.LaskeBT);
             this.Controls.Add(this.PituusTB);
@@ -117,5 +129,6 @@
         private TextBox PituusTB;
         private Button LaskeBT;
         private Label VastausLB;
+        private Label Vastaus2LB;
     }
 }
