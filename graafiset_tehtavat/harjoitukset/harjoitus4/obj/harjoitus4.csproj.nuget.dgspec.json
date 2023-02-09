@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj": {}
+    "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj": {}
   },
   "projects": {
-    "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj": {
+    "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj",
+        "projectUniqueName": "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj",
         "projectName": "harjoitus4",
-        "projectPath": "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj",
-        "packagesPath": "C:\\Users\\Pete\\.nuget\\packages\\",
-        "outputPath": "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\obj\\",
+        "projectPath": "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\harjoitus4.csproj",
+        "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+        "outputPath": "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

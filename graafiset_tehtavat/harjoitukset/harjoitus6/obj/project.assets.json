@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pete\\.nuget\\packages\\": {},
+    "C:\\Users\\Legion\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus6\\harjoitus6.csproj",
+      "projectUniqueName": "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus6\\harjoitus6.csproj",
       "projectName": "harjoitus6",
-      "projectPath": "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus6\\harjoitus6.csproj",
-      "packagesPath": "C:\\Users\\Pete\\.nuget\\packages\\",
-      "outputPath": "E:\\koulutehtävät\\Ohjelmointi\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus6\\obj\\",
+      "projectPath": "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus6\\harjoitus6.csproj",
+      "packagesPath": "C:\\Users\\Legion\\.nuget\\packages\\",
+      "outputPath": "C:\\c_sharp_koulu\\c_sharp_koulu\\graafiset_tehtavat\\harjoitukset\\harjoitus6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Legion\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
