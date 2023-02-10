@@ -1,0 +1,17 @@
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\bin\Debug\net6.0-windows\harjoitus16.exe
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\bin\Debug\net6.0-windows\harjoitus16.deps.json
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\bin\Debug\net6.0-windows\harjoitus16.runtimeconfig.json
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\bin\Debug\net6.0-windows\harjoitus16.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\bin\Debug\net6.0-windows\harjoitus16.pdb
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.csproj.AssemblyReference.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.AjastinForm.resources
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.csproj.GenerateResource.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.GeneratedMSBuildEditorConfig.editorconfig
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.AssemblyInfoInputs.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.AssemblyInfo.cs
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.csproj.CoreCompileInputs.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\refint\harjoitus16.dll
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.pdb
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\harjoitus16.genruntimeconfig.cache
+E:\koulutehtävät\Ohjelmointi\c_sharp_koulu\c_sharp_koulu\graafiset_tehtavat\harjoitukset\harjoitus16\obj\Debug\net6.0-windows\ref\harjoitus16.dll
