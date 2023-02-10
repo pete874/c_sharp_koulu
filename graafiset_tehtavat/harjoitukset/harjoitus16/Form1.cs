@@ -52,7 +52,7 @@ namespace harjoitus16
                 kokonaisaika--;
                 int minuutit = kokonaisaika / 60;
                 int sekunnit = kokonaisaika - (minuutit * 60);
-                TimerLB.Text = minuutit + ":" + sekunnit;
+                TimerLB.Text = minuutit.ToString() + ":" + sekunnit.ToString();
             }
             else
             {
