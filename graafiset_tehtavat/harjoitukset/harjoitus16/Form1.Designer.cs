@@ -34,7 +34,7 @@
             this.MinutesCB = new System.Windows.Forms.ComboBox();
             this.SecondsCB = new System.Windows.Forms.ComboBox();
             this.TimerLB = new System.Windows.Forms.Label();
-            this.Timer = new System.Windows.Forms.Timer(this.components);
+            this.TimerTM = new System.Windows.Forms.Timer(this.components);
             this.StartBT = new System.Windows.Forms.Button();
             this.StopBT = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -82,9 +82,9 @@
             this.TimerLB.TabIndex = 4;
             this.TimerLB.Text = "00:00";
             // 
-            // Timer
+            // TimerTM
             // 
-            this.Timer.Interval = 1000;
+            this.TimerTM.Interval = 1000;
             // 
             // StartBT
             // 
@@ -133,7 +133,7 @@
         private ComboBox MinutesCB;
         private ComboBox SecondsCB;
         private Label TimerLB;
-        private System.Windows.Forms.Timer Timer;
+        private System.Windows.Forms.Timer TimerTM;
         private Button StartBT;
         private Button StopBT;
     }

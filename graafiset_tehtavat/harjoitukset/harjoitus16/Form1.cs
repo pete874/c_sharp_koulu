@@ -1,4 +1,6 @@
 using System.Diagnostics;
+
+
 namespace harjoitus16
 {
     public partial class AjastinForm : Form
@@ -31,7 +33,7 @@ namespace harjoitus16
             int minuutit = int.Parse(MinutesCB.SelectedItem.ToString());
             int sekunnit = int.Parse(SecondsCB.SelectedItem.ToString());
             kokonaisaika = (minuutit * 60) + sekunnit;
-            Timer.Enabled = true;
+            TimerTM.Enabled = true;
         }
 
         private void StopBT_Click(object sender, EventArgs e)
@@ -39,7 +41,7 @@ namespace harjoitus16
             StartBT.Enabled = true;
             StopBT.Enabled = false;
             kokonaisaika = 0;
-            Timer.Enabled = false;
+            TimerTM.Enabled = false;
             TimerLB.Text = "00:00";
         }
 
@@ -54,7 +56,7 @@ namespace harjoitus16
             }
             else
             {
-                Timer.Stop();
+                TimerTM.Stop();
                 MessageBox.Show("Aikasi loppui");
             }
         }
