@@ -45,7 +45,7 @@ namespace harjoitus16
             TimerLB.Text = "00:00";
         }
 
-        private void Timer_Tick(object sender, EventArgs e)
+        private void TimerTM_Tick_1(object sender, EventArgs e)
         {
             if (kokonaisaika > 0)
             {

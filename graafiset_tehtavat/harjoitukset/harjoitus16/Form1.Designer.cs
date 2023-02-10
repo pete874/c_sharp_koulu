@@ -85,6 +85,7 @@
             // TimerTM
             // 
             this.TimerTM.Interval = 1000;
+            this.TimerTM.Tick += new System.EventHandler(this.TimerTM_Tick_1);
             // 
             // StartBT
             // 
