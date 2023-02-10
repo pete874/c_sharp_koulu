@@ -38,6 +38,8 @@
             this.tulostuksenEsikatseluToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tulostaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.poistuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripSeparator();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,8 +60,10 @@
             this.avaaToolStripMenuItem,
             this.tallennaToolStripMenuItem,
             this.tallennaNimelläToolStripMenuItem,
+            this.toolStripMenuItem2,
             this.tulostuksenEsikatseluToolStripMenuItem,
             this.tulostaToolStripMenuItem,
+            this.toolStripMenuItem1,
             this.poistuToolStripMenuItem});
             this.menusToolStripMenuItem.Name = "menusToolStripMenuItem";
             this.menusToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
@@ -120,6 +124,16 @@
             this.poistuToolStripMenuItem.Size = new System.Drawing.Size(191, 22);
             this.poistuToolStripMenuItem.Text = "Poistu";
             // 
+            // toolStripMenuItem1
+            // 
+            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(188, 6);
+            // 
+            // toolStripMenuItem2
+            // 
+            this.toolStripMenuItem2.Name = "toolStripMenuItem2";
+            this.toolStripMenuItem2.Size = new System.Drawing.Size(188, 6);
+            // 
             // Muistio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -149,5 +163,7 @@
         private ToolStripMenuItem tulostaToolStripMenuItem;
         private ToolStripMenuItem poistuToolStripMenuItem;
         private RichTextBox richTextBox1;
+        private ToolStripSeparator toolStripMenuItem2;
+        private ToolStripSeparator toolStripMenuItem1;
     }
 }
