@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\graafiset_tehtavat",
-    "\\graafiset_tehtavat\\harjoitukset"
+    "\\graafiset_tehtavat\\harjoitukset",
+    "\\graafiset_tehtavat\\harjoitukset\\harjoitus19"
   ],
-  "SelectedNode": "\\graafiset_tehtavat\\harjoitukset\\harjoitukset.sln",
+  "SelectedNode": "\\graafiset_tehtavat\\harjoitukset\\harjoitus19\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
